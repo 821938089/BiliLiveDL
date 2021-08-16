@@ -8,7 +8,7 @@ Flv流解析可以编辑Tag Header、Script Tag Data，有需要的可在解析�
 ```shell
 git clone https://github.com/821938089/BiliLiveDL
 cd BiliLiveDL
-main.py main.py 房间ID [qn数值(默认10000即原画)]
+main.py 房间ID [qn数值(默认10000即原画)]
 ```
 
  `Ctrl+C` 结束录制
